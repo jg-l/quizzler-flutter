@@ -3,6 +3,13 @@
 
 # Quizzler ❓
 
+
+## Modification
+
+- Instead of relying on a 3rd party package for a dialog, we use `alertDialog` instead
+- Core logic is the same but with a neater implementation
+- Scorekeeper (the tally) is inside `QuizBrain` to keep it neat
+
 ## Our Goal
 
 In this tutorial we will be reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
